@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+
 void menuPrincipal( void ){
     system ("clear");
     printf("===== SIG-Recipes: CADERNO DE RECEITAS CULINÁRIAS =====\n\n");
